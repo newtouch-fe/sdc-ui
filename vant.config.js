@@ -33,13 +33,14 @@ module.exports = {
             title: 'DemoButton 按钮',
           },
           {
-            path: 'table-mobile',
-            title: 'tableMobile 表格',
+            path: 'picker',
+            title: 'pciker 老虎机',
           },
           {
-            path: 'table-all',
+            path: 'table',
             title: 'table 表格',
           },
+          
         ],
       },
     ],
